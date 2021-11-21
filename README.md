@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppichugin
+- 👋 Hi, I’m @ppichugin Pyotr Pichugin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 
