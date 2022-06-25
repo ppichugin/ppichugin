@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Java Developer from Kazakhstan.
+I am a Java Developer.
 
 - 💖 Programming & software development are my passions.
 - ⚡ In my free time, I keep learning on other modern software development technologies.
