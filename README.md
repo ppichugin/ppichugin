@@ -29,7 +29,7 @@
 I am a backend developer.
 
 - 💖 Programming & software development are my passions.
-- 🧩 I speak in Java / Kotlin, a bit in JS/TS, and expand my knowledge to Go.
+- 🧩 I speak in Java / Kotlin, a bit in JS/TS, expand my knowledge to Go, intrigued by Haskell.
 - ⚡ In my free time, I continue to explore on other modern software development technologies.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Petr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petr-pichugin/)
 
