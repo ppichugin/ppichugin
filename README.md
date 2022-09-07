@@ -12,52 +12,43 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ppichugin&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
-</h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1>
+  Hi, I'm Petr 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
+</h1>
+
+Backend developer. Interested in: cloud-native, microservice architecture, high-load systems.
 
 ---
 
-### 👨‍💻 About Me :
-
-I am a backend developer.
 
 - 💖 Programming & software development are my passions.
 - 🧩 I speak in Java / Kotlin, a bit in JS/TS, expand my knowledge to Go, intrigued by Haskell.
-- ⚡ In my free time, I continue to explore on other modern software development technologies.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Petr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petr-pichugin/)
+- ⚡ In my free time, I continue to explore on other modern software development technologies & system design.
+- 👀 Improving my skills on [leetcode](https://leetcode.com/ppichugin/), [stepik](https://stepik.org/users/493059959), [udemy](https://www.udemy.com/user/petr-pichugin/).
+- 📫 How to reach me: [https://pichugin.kz/#contacts-e](https://pichugin.kz/#contacts-e)
 
 ---
 
-### 🛠️ Toolkit:
+### 🛠️ Technical stack:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/194/707/png-transparent-junit-test-automation-software-testing-unit-testing-software-framework-others-text-trademark-logo.png" title="JUnit" alt="JUnit" width="60" height="22"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="70" height="40"/>&nbsp;
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" title="Maven" alt="Maven" width="60" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-</div>
+- Java, Kotlin, Groovy, Golang, JS/TS, HTML/CSS;
+- PostgreSQL, MySQL;
+- Spring Framework (Core / Boot / Security / Data / Test);
+- JUnit, Mockito;
+- Maven, Gradle;
+- Docker/Docker-compose;
+- Git/GitHub.
 
 ---
 
 ### 🔥 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
-![Petr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppichugin&hide=prs,issues&layout=compact&theme=vision-friendly-white&show_icons=true)
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white"/></a>
+   <a href="https://github.com/ppichugin/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=ppichugin&hide=prs,issues&layout=compact&theme=vision-friendly-white&show_icons=true"/></a>
+</p>
