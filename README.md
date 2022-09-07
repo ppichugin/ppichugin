@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/petr-pichugin/">
+  <a href="https://www.linkedin.com/in/petr-pichugin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/PPichugin">
+  <a href="https://twitter.com/PPichugin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -16,7 +16,7 @@
 
 <h1>
   Hi, I'm Petr 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
 </h1>
 
 Backend developer. Interested in: cloud-native, microservice architecture, high-load systems.
@@ -26,7 +26,9 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 - 💖 Programming & software development are my passions.
 - 🧩 I speak in Java / Kotlin, a bit in JS/TS, expand my knowledge to Go, intrigued by Haskell.
 - ⚡ In my free time, I continue to explore on other modern software development technologies & system design.
-- 👀 Improving my skills on <a href="https://leetcode.com/ppichugin/" target="_new">leetcode</a>, <a href="https://stepik.org/users/493059959" target="_new">stepik</a>, <a href="https://www.udemy.com/user/petr-pichugin/" target="_new">udemy</a>.
+- 👀 Improving my skills on <a href="https://leetcode.com/ppichugin/" target="_blank">leetcode</a>
+  , <a href="https://stepik.org/users/493059959" target="_blank">stepik</a>
+  , <a href="https://www.udemy.com/user/petr-pichugin/" target="_blank">udemy</a>.
 - 📫 How to reach me: [petr.pichugin@gmail.com](mailto:petr.pichugin@gmail.com)
 
 ---
@@ -46,8 +48,8 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 ### 🔥 My Stats:
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white" target="_blank">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white"/></a>
-   <a href="https://github.com/ppichugin/github-readme-stats">
+   <a href="https://github.com/ppichugin/github-readme-stats" target="_blank">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=ppichugin&hide=prs,issues&layout=compact&theme=vision-friendly-white&show_icons=true"/></a>
 </p>
