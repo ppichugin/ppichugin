@@ -24,7 +24,7 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 ---
 
 - 💖 Programming & software development are my passions.
-- 🧩 I speak in Java / Kotlin, a bit in JS/TS, expand my knowledge to Go, intrigued by Haskell.
+- 🧩 I speak in Java / Go, a bit in JS/TS, intrigued by Haskell.
 - ⚡ In my free time, I continue to explore on other modern software development technologies & system design.
 - 👀 Improving my skills on <a href="https://leetcode.com/ppichugin/" target="_blank">leetcode</a>
   , <a href="https://stepik.org/users/493059959" target="_blank">stepik</a>
@@ -40,8 +40,7 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 - Spring Framework (Core / Boot / Security / Data / Test);
 - JUnit, Mockito;
 - Maven, Gradle;
-- Docker/Docker-compose;
-- Git/GitHub.
+- Docker/Docker-compose.
 
 ---
 
