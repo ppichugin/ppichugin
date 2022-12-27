@@ -35,9 +35,9 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 
 ### 🛠️ Technical stack:
 
-- Java, Kotlin, Groovy, Golang, JS/TS, HTML/CSS;
+- Java, Golang, JS/TS, HTML/CSS;
 - PostgreSQL, MySQL;
-- Spring Framework (Core / Boot / Security / Data / Test);
+- Spring Framework;
 - JUnit, Mockito;
 - Maven, Gradle;
 - Docker/Docker-compose.
