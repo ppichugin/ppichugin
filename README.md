@@ -24,7 +24,7 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 ---
 
 - 💖 Programming & software development are my passions.
-- 🧩 I speak in Java / Go, a bit in JS/TS, intrigued by Haskell.
+- 🧩 I speak in Java / Go, a bit in Haskell & JS/TS.
 - ⚡ In my free time, I continue to explore on other modern software development technologies & system design.
 - 👀 Improving my skills on codewars, <a href="https://leetcode.com/ppichugin/" target="_blank">leetcode</a>
   , <a href="https://stepik.org/users/493059959" target="_blank">stepik</a>
@@ -35,7 +35,7 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 
 ### 🛠️ Technical stack:
 
-- Java, Golang, JS/TS, HTML/CSS;
+- Golang, Java, Haskell, JS/TS, HTML/CSS;
 - PostgreSQL, MySQL;
 - Spring Framework;
 - JUnit, Mockito;
