@@ -26,7 +26,8 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 - 💖 Programming & software development are my passions.
 - 🧩 I speak in Java / Go, a bit in Haskell & JS/TS.
 - ⚡ In my free time, I continue to explore on other modern software development technologies & system design.
-- 👀 Improving my skills on codewars, <a href="https://leetcode.com/ppichugin/" target="_blank">leetcode</a>
+- 👀 Improving my skills on <a href="https://www.codewars.com/users/ppichugin" target="_blank">codewars</a>
+  , <a href="https://leetcode.com/ppichugin/" target="_blank">leetcode</a>
   , <a href="https://stepik.org/users/493059959" target="_blank">stepik</a>
   , <a href="https://www.udemy.com/user/petr-pichugin/" target="_blank">udemy</a>.
 - 📫 How to reach me: [petr.pichugin@gmail.com](mailto:petr.pichugin@gmail.com)
