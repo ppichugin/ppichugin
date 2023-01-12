@@ -48,8 +48,8 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 ### 🔥 My Stats:
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white" target="_blank">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white"/></a>
+   <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white" target="_blank">
+       <img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ppichugin&layout=compact&theme=vision-friendly-white"/></a>
    <a href="https://github.com/ppichugin/github-readme-stats" target="_blank">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=ppichugin&hide=prs,issues&layout=compact&theme=vision-friendly-white&show_icons=true"/></a>
+       <img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ppichugin&hide=prs,issues&layout=compact&theme=vision-friendly-white&show_icons=true"/></a>
 </p>
