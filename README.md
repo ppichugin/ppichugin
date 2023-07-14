@@ -35,10 +35,9 @@ Backend developer. Interested in: cloud-native, microservice architecture, high-
 
 ### 🛠️ Technical stack:
 
-- Go, Java, Rust, JS/TS, HTML/CSS;
+- Go, Rust;
 - PostgreSQL, MySQL, MongoDB, Redis;
 - Testify;
-- Apache Kafka;
 - Docker/Docker-compose;
 - Jenkins, GitlabCI, Ansible.
 
